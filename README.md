@@ -23,3 +23,4 @@ Yada
 ```php
 $db->query("SET CHARACTER SET utf8");
 ```
+
