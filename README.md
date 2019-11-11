@@ -14,6 +14,7 @@ try {
 ```
 
 <h4>PDO Karakter Seti Ayarlama</h4>
+
 ```php
 <?php
 $db = new PDO("mysql:host=localhost;dbname=test;charset=utf8", "root", "123456");
