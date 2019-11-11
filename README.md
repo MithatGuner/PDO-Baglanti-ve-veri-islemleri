@@ -1,7 +1,7 @@
 # PDO-Baglanti-Ve-Veri-Islemleri
 PHP PDO Bağlantı Ve Veri İşlemleri
 
-<h1>PDO Bağlantı Kurma</h1>
+- PDO BAĞLANTI KURMA
 
 ```php
 <?php
@@ -13,7 +13,7 @@ try {
 ?>
 ```
 
-<h4>PDO Karakter Seti Ayarlama</h4>
+- PDO KARAKTER SETI AYARLAMA
 
 ```php
 <?php
