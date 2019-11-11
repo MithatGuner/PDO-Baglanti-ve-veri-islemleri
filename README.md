@@ -19,8 +19,3 @@ try {
 $db = new PDO("mysql:host=localhost;dbname=test;charset=utf8", "root", "123456");
 ?>
 ```
-Yada
-```
-$db->query("SET CHARACTER SET utf8");
-```
-
